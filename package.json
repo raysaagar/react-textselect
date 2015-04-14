@@ -14,7 +14,7 @@
     "select"
   ],
   "peerDependencies": {
-    "react": "^0.12.x"
+    "react": "^0.13.x"
   },
   "author": "javierbyte",
   "license": "ISC",
