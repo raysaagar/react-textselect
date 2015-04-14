@@ -4,6 +4,8 @@
     padding-right: 1em;
     margin-right: .17em;
     cursor: pointer;
+    /* Set position so that the input selector has a frame of reference*/
+    position: relative;
 }
 .react-textselect::after {
     position: absolute;
